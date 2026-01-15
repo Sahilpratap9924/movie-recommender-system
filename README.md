@@ -62,7 +62,7 @@ It is downloaded securely from Hugging Face at runtime.
 
 Follow these steps to run the project on your machine:
 
-git clone https://github.com/YOUR_USERNAME/movie-recommender-system.git
+git clone https://github.com/Sahilpratap9924/movie-recommender-system.git
 cd movie-recommender-system
 pip install -r requirements.txt
 streamlit run app.py
